@@ -9,11 +9,11 @@ Building mobile applications with Flutter & Android while exploring AI-powered s
 
 [![](https://visitcount.itsvg.in/api?id=FarhanAbelRantisi&icon=1&color=6)](https://visitcount.itsvg.in)
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:farhanrantisi55@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/farhanabelrantisi">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
