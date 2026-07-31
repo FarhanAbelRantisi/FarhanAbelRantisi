@@ -113,8 +113,8 @@ Online examination platform for educational institutions.
 ## 📫 Let's Connect
 
 - 🌐 Portfolio : https://farhanabel.com
-- 💼 LinkedIn : https://linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email : your-email@example.com
+- 💼 LinkedIn : https://linkedin.com/in/farhanabelrantisi
+- 📧 Email : farhanrantisi@gmail.com
 
 ---
 
