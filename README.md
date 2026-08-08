@@ -114,7 +114,7 @@ Online examination platform for educational institutions.
 
 - 🌐 Portfolio : https://farhanabel.com
 - 💼 LinkedIn : https://linkedin.com/in/farhanabelrantisi
-- 📧 Email : farhanrantisi@gmail.com
+- 📧 Email : farhanrantisi55@gmail.com
 
 ---
 
